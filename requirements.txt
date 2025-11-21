@@ -1,3 +1,7 @@
-openai
+fastapi
+uvicorn
+langchain-groq
+langchain-core
+pdfplumber
 python-dotenv
-requests
+python-multipart
